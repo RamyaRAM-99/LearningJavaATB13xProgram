@@ -1,4 +1,4 @@
-package ex_02_Java;
+package ex_02_Java_Test;
 
 public class TestClass {
 
