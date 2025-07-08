@@ -1,7 +1,8 @@
-package ex_01_Java_HelloWorld;
+package HelloWorld;
 
 public class HelloWorld {
     public static void main(String[] args) {
+
         System.out.println("Hello World!!");
     }
 }
